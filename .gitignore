@@ -1,0 +1,37 @@
+# Backup files created by the script
+*.backup_*
+
+# PowerShell temporary files
+*.ps1.bak
+*.tmp
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Test files
+test/
+tests/
+*.test.ps1
+
+# Logs
+*.log
+logs/
+
+# Personal notes
+notes.txt
+TODO.txt
