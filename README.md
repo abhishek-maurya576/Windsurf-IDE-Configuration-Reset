@@ -59,7 +59,7 @@ This PowerShell script safely resets Windsurf IDE's telemetry identifiers (app-l
    ```
 
 2. Or download the script file directly:
-   - [`reset_windsurf_IDE-v1.0.ps1`](reset_windsurf_IDE-v1.0.ps1)
+   - [Download `reset_windsurf_IDE-v1.0.ps1`](https://github.com/abhishek-maurya576/Windsurf-IDE-Configuration-Reset/releases/download/v1.0/reset_windsurf_IDE-v1.0.ps1)
 
 ## 💻 Usage
 
