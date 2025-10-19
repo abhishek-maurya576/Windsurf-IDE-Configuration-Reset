@@ -76,7 +76,7 @@ cd path\to\script\directory
 ### Step 3: Execute the Script
 
 ```powershell
-.\reset_windsurf_IDE-v1.0.ps1
+powershell -ExecutionPolicy Bypass -File .\reset_windsurf_IDE-v1.0.ps1
 ```
 
 ### Step 4: Restart Windsurf IDE
