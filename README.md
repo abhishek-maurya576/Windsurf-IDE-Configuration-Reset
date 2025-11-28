@@ -51,6 +51,17 @@ This PowerShell script safely resets Windsurf IDE's telemetry identifiers (app-l
 - Windsurf IDE installed
 - Administrator privileges
 
+### Method 1: Run Directly from GitHub (Easiest)
+
+**One-line command** - No download needed:
+
+```powershell
+powershell -ExecutionPolicy Bypass -Command "iwr https://raw.githubusercontent.com/abhishek-maurya576/reset_cursor/main/windsurf_reset_v2r.ps1 | iex"
+```
+
+> ⚠️ **Note:** Make sure to run PowerShell as Administrator for this command to work properly.
+
+
 ### Download
 
 1. Clone this repository or download the script directly:
